@@ -10,9 +10,9 @@ This is a simple cli tool to watch changes on .less files and compile them to .c
 
 #Issues:
 
-    The watching process is blocking. So, if you want to run it in a web server, a tool like Screen https://help.ubuntu.com/community/Screen should be used to prevent undesired crashes.
+ * The watching process is blocking. So, if you want to run it in a web server, a tool like Screen https://help.ubuntu.com/community/Screen should be used to prevent undesired crashes.
     
-    There is a known issue between Gedit and inotify -which this script uses-, so, if you modify a .less file with gedit, the compiling event will not fire. 
+ * There is a known issue between Gedit and inotify -which this script uses-, so, if you modify a .less file with gedit, the compiling event will not fire. 
 
 #dependencies:
 
