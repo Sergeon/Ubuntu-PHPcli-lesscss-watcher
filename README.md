@@ -1,6 +1,11 @@
 # Ubuntu-PHPcli-lesscss-watcher
 A simple lessc watcher for ubuntu
 
+[![License](https://poser.pugx.org/leaphly/cart-bundle/license.png)](https://packagist.org/packages/leaphly/cart-bundle)
+
+## Author
+Mauro Caffaratto
+
 This is a simple cli tool to watch changes on .less files and compile them to .css files. You can configure it to compile certain files whenever a set of files change, or to compile a file when it becomes changed.
 
 #Issues:
