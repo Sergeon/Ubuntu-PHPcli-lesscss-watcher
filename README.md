@@ -16,7 +16,7 @@ This is a simple cli tool to watch changes on .less files and compile them to .c
 
 #dependencies:
 
-    PHP cli, lessc and the inotify module of PHP must be installed. 
+    PHP cli, lessc, inotify and the inotify module of PHP must be installed. 
 
 #Usage:
 
